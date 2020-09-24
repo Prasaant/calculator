@@ -1,0 +1,15 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 10px;
+}
+.calc-wrapper{
+  width: 400px;
+  height: 600px;
+}
+.row{
+  display: flex;
+  width:"100%";
+}
